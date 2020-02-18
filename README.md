@@ -40,3 +40,4 @@ JAX-WS provides a special annotation @WebMethod to override the default method t
 * For Service Implementation, Browse `ScoreService` class and click Next.
 * When it reaches Start Server, click Start Server to start the web service.
 
+Referenced from: https://www.theserverside.com/video/Step-by-step-SOAP-web-services-example-in-Java-using-Eclipse
